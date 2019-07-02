@@ -1,0 +1,10 @@
+E:\SEIP\Day2\program\Bookshoopapps\Bookshoopapps\bin\Debug\Bookshoopapps.exe.config
+E:\SEIP\Day2\program\Bookshoopapps\Bookshoopapps\bin\Debug\Bookshoopapps.exe
+E:\SEIP\Day2\program\Bookshoopapps\Bookshoopapps\bin\Debug\Bookshoopapps.pdb
+E:\SEIP\Day2\program\Bookshoopapps\Bookshoopapps\obj\Debug\Bookshoopapps.csprojAssemblyReference.cache
+E:\SEIP\Day2\program\Bookshoopapps\Bookshoopapps\obj\Debug\Bookshoopapps.Form1.resources
+E:\SEIP\Day2\program\Bookshoopapps\Bookshoopapps\obj\Debug\Bookshoopapps.Properties.Resources.resources
+E:\SEIP\Day2\program\Bookshoopapps\Bookshoopapps\obj\Debug\Bookshoopapps.csproj.GenerateResource.cache
+E:\SEIP\Day2\program\Bookshoopapps\Bookshoopapps\obj\Debug\Bookshoopapps.csproj.CoreCompileInputs.cache
+E:\SEIP\Day2\program\Bookshoopapps\Bookshoopapps\obj\Debug\Bookshoopapps.exe
+E:\SEIP\Day2\program\Bookshoopapps\Bookshoopapps\obj\Debug\Bookshoopapps.pdb
